@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>التحاليل الطبية</title>
+</head>
+<link rel="stylesheet" href="./css/staul.css">
+<body>    
+    <center> <img src="./الصور/135.png"
+        alt="التحاليل الطبية " height="300" ></center>
+   <center><h1>كتب التحاليل الطبية</h1></center>
+
+<center><h2>.</h2></center>
+
+
+
+    <center><h1>......................................</h1></center> 
+
+
+
+    <center><h2>كتاب الاطلس الملون الجديد لتسهيل الفحص الميكروسكوبي</a></h2></center>
+</h2></center>
+<center><h2><a download="شهاب طه منصور" href="./الكتب/كتاب الاطلس الملون الجديد لتسهيل الفحص الميكروسكوبي.pdf" >تحميل</a></h2></center>
+<br>
+<center><h2>01 Blood cells </a></h2></center>
+<center><h2><a download="شهاب طه منصور" href="./الكتب/01 Blood cells.pdf" >تحميل</a></h2></center>
+<br>
+<center><h2>02 Blood cell Maturation, A </a></h2></center>
+<center><h2><a download="شهاب طه منصور" href="./الكتب/02 Blood cell Maturation, A.pdf" >تحميل</a></h2></center>
+<br>
+<center><h2>02 Blood cell Maturation, B </a></h2></center>
+<center><h2><a download="شهاب طه منصور" href="./الكتب/02 Blood cell Maturation, B.pdf" >تحميل</a></h2></center>
+<br>
+<center><h2>03 Abnormal Erythrocytes </a></h2></center>
+<center><h2><a download="شهاب طه منصور" href="./الكتب/03 Abnormal Erythrocytes.pdf" >تحميل</a></h2></center>
+<br>
+<center><h2>04 Urine,A </a></h2></center>
+<center><h2><a download="شهاب طه منصور" href="./الكتب/04 Urine,A.pdf" >تحميل</a></h2></center>
+<br>
+<center><h2>04 Urine,B</a></h2></center>
+<center><h2><a download="شهاب طه منصور" href="./الكتب/04 Urine,B.pdf" >تحميل</a></h2></center>
+<br>
+<center><h2>05 Stool</a></h2></center>
+
+<center><h2><a download="شهاب طه منصور" href="./الكتب/05 Stool.pdf" >تحميل</a></h2></center>
+<br>
+<center><h2>Index</a></h2></center>
+<center><h2><a download="شهاب طه منصور" href="./الكتب/Index.pdf" >تحميل</a></h2></center>
+<br>
+<center><h1>.......................................</h1></center>
+<br>
+<br>
+<h1> <h1><a href="./الصفحات/للتواصل .html"> للتواصل </a></h1></h1>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
